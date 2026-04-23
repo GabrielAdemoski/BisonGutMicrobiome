@@ -84,6 +84,18 @@ def anchor(q):
 
 
 def circular_plot(matrix, taxa, disp=True, path="figs/", fname='circular_image', title='X'):
+    """
+    Generates and saves the plot as a PNG. If disp is true, the execution of the program will pause while the plot is
+    displayed.
+    :param matrix: A matrix of the taxa correlations
+    :param taxa: An array with the names of the taxa in the matrix
+    :param disp: A Boolean toggle of whethe to display the plot on screen
+    :param path: The relative file path from the programs root directory
+    :param fname: The name of the image file
+    :param title: The title on the image file
+    :return: Save an image to a folder
+    """
+    
     os.makedirs(path, exist_ok=True)
 
     width = 800
