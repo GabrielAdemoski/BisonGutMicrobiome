@@ -27,15 +27,14 @@ generate linear and cyclical time diagrams which are then saved in the "figs" fo
 folder does not already exist a new one will be created. "main.R" must be run before "main.py".
 
 ### Example Outputs
-<img width="1000" height="1000" alt="lvl2_Winter_0" src="https://github.com/user-attachments/assets/01be15bc-595b-4bb4-b36c-fe2074b84eb7" />
+<img width="100" height="100" alt="lvl2_Winter_0" src="https://github.com/user-attachments/assets/01be15bc-595b-4bb4-b36c-fe2074b84eb7" />
 The image above is an example of a Genus level correlations of taxa found in Bison fecal samples. Orange edges represent positive correlations whereas blue edges represent negative correlations. The width of an edge correlates to its relative weight.
 
-<img width="3765" height="2830" alt="Genus Annual Changes" src="https://github.com/user-attachments/assets/ba6b4ffc-5155-4e82-8b05-549ccaea0da4" />
-The image above is an example of the change in correlations from season to season. Time flows clockwise. Orange edges represent positive correlations whereas blue edges represent negative correlations. The width of an edge correlates to its relative weight.
-
-<img width="3020" height="3020" alt="Genus Seasonal Changes Top 10" src="https://github.com/user-attachments/assets/8cbd1938-fd15-4356-bb16-261655f0ac53" />
+<img width="100" height="100" alt="Genus Annual Changes" src="https://github.com/user-attachments/assets/ba6b4ffc-5155-4e82-8b05-549ccaea0da4" />
 The image above is an example of the change in correlations from year to year. Time flows from lower years (top) to higher years (bottom). Orange edges represent positive correlations whereas blue edges represent negative correlations. The width of an edge correlates to its relative weight.
 
+<img width="100" height="100" alt="Genus Seasonal Changes Top 10" src="https://github.com/user-attachments/assets/8cbd1938-fd15-4356-bb16-261655f0ac53" />
+The image above is an example of the change in correlations from season to season. Time flows clockwise. Orange edges represent positive correlations whereas blue edges represent negative correlations. The width of an edge correlates to its relative weight.
 
 
 
